@@ -1,0 +1,19 @@
+| Command(s) | Description | Arguments |
+| --- | --- | --- |
+| `/cal`<br>`/c` | Calculates a given expression. Can also use replies to use previous calculations as input, where the output of the previous calculation can be used in the new `/cal` command using the keyword `ans`.<br>*(Powered by [math.js](https://mathjs.org/))* | **Needed.**<br>Send `/cal` (without arguments) for detailed help. |
+| `/countdown`<br>`/cd` | Creates a refreshable countdown to a given time. | **Needed.**<br>`/countdown in 2 hours` will start a countdown to 2 hours from the time the message was sent. |
+| `/echo` | Echoes any text that is input. Can also use replies to use others' text as input.<br>**This action can only be performed by [admins of the bot](secrets.template.py).** | **Needed.**<br>`/echo _Some_ *text*` will output "\_Some\_ \*text\*".<br>`/echo -m _Some_ *text*` will output "*Some* **text**". |
+| `/flip` | Flips a coin. Shortcut to `/rng d2`. | **Not accepted.** |
+| `/forward`<br>`/f` | Forwards a message.<br>**The command must be sent as a reply to another message.** | **Not needed, but accepted.**<br>`/forward in 3 hours` will forward the replied-to message, 3 hours from when the command was sent.<br>`/forward` (without arguments) will do the same immediately. |
+| `/inspire` | Sends an inspirational message.<br>*(Powered by [inspirobot.me](http://inspirobot.me/))* | **Not accepted.** |
+| `/meet`<br>`/mpt` | Selects the specified location as the bot's Live Location. Useful for groups using Live Location to meet up.<br>**The command must be sent as a reply to another location message.** | **Not needed, but accepted.**<br>`/meet at 7pm` will set that location as the bot's Live Location until 7pm.<br>`/meet` (without arguments) will do the same for the next 15 minutes by default. |
+| `/minesweeper`<br>`/mines` | Starts a game of Minesweeper that uses inline buttons. The game is played on an 8×8 grid with 10 mines. | **Not accepted.** |
+| `/mock` | Generates mOCkiNg tExt. | **Needed.**<br>`/mock Some text` will output "SoMe tExT" (cases switching every other character).<br>`/mock -r Some text` will output the text with cases switched randomly. |
+| `/ping` | Checks if Kronos is listening. | **Not accepted.** |
+| `/pray` | Sends prayer times for Maale for the current day by default. Can also provide prayer times for the next week for any island in the Maldives.<br>*(Powered by [SalatMV](https://play.google.com/store/apps/details?id=mv.salaf.salat))* | **Not accepted.** |
+| `/rip` | Provides a button to pay respects to the deceased. | **Not needed, but accepted.**<br>`/rip my dignity` will provide a message customized for "my dignity". |
+| `/rng` | Generates random numbers with input specified using [dice notation](https://en.m.wikipedia.org/wiki/Dice_notation). | **Not needed, but accepted.**<br>`/rng 20d98` will roll a 98-sided die 20 times.<br>`/rng` (without arguments) will roll 1d6 by default (a 6-sided die once). |
+| `/start` | Default start command. Replies with "Hello!" and a prompt to use other commands. | **Not accepted.** |
+| `/sticker` | Edits a photo to the dimensions needed to create a Telegram sticker. The returned file can then be forwarded to the [Stickers bot](http://t.me/Stickers).<br>**The command must be sent as a reply to another file that is JPG or PNG.** | **Not accepted.** |
+| `/strike`<br>`/s` | Generates ~~strikethrough text~~. | **Needed.**<br>`/strike example` will output ~~example~~. |
+| `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
