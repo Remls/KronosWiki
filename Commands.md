@@ -1,3 +1,5 @@
+## Commands list
+
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
 | `/cal`<br>`/c` | Calculates a given expression. Can also use replies to use previous calculations as input, where the output of the previous calculation can be used in the new `/cal` command using the keyword `ans`.<br>*(Powered by [math.js](https://mathjs.org/))* | **Needed.**<br>Send `/cal` (without arguments) for detailed help. |
@@ -17,3 +19,13 @@
 | `/sticker` | Edits a photo to the dimensions needed to create a Telegram sticker. The returned file can then be forwarded to the [Stickers bot](http://t.me/Stickers).<br>**The command must be sent as a reply to another file that is JPG or PNG.** | **Not accepted.** |
 | `/strike`<br>`/s` | Generates ~~strikethrough text~~. | **Needed.**<br>`/strike example` will output ~~example~~. |
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
+
+## Other functions
+
+| Trigger | Description |
+| --- | --- |
+| `F` or `f` | Shortcut to `/rip`. Starts with 1 respect already paid by the sender. |
+| `T` or `t` | Sends any one of 29 [Limimin-themed stickers](http://t.me/addstickers/Limimin) at random. |
+| `#<hashtag>` | Mentions a [predefined list](data/hashtags.template.json) of users within a group, depending on `<hashtag>` and group used in. |
+| `/r/<subreddit>` | Provides a link to the mentioned subreddit. Also works with `r/<subreddit>`. |
+| `/u/<username>` | Provides a link to the mentioned Reddit user. Also works with `u/<username>`. |
