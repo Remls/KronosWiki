@@ -2,7 +2,7 @@
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
-| `/cal`<br>`/c` | Calculates a given expression. Can also use replies to use previous calculations as input, where the output of the previous calculation can be used in the new `/cal` command using the keyword `ans`.<br>*(Powered by [math.js](https://mathjs.org/))* | **Needed.**<br>Send `/cal` (without arguments) for detailed help. |
+| `/cal`<br>`/c` | Calculates a given expression. Can also use replies to use previous calculations as input, where the output of the previous calculation can be used in the new `/cal` command using the keyword `ans`.<br>*(Powered by [math.js](https://mathjs.org/))* | **Needed.**<br>`/cal 2+2` = 4 <br>`/cal 2^2` = 4 <br>`/cal pi` = 3.141592653589793<br>`/cal round(ans, 2)` (in reply to previous calculation) = 3.14<br>`/cal ans+2` (without replying to anything) will show "Syntax error".<br>`/cal yo mama` will show "Syntax error". |
 | `/countdown`<br>`/cd` | Creates a refreshable countdown to a given time. | **Needed.**<br>`/countdown in 2 hours` will start a countdown to 2 hours from the time the message was sent. |
 | `/echo` | Echoes any text that is input. Can also use replies to use others' text as input.<br>**This action can only be performed by [admins of the bot](secrets.template.py).** | **Needed.**<br>`/echo _Some_ *text*` will output "\_Some\_ \*text\*".<br>`/echo -m _Some_ *text*` will output "*Some* **text**". |
 | `/flip` | Flips a coin. Shortcut to `/rng d2`. | **Not accepted.** |
