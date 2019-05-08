@@ -24,8 +24,8 @@
 
 | Trigger | Description |
 | --- | --- |
-| `F` or `f` | Shortcut to `/rip`. Starts with 1 respect already paid by the sender. |
-| `T` or `t` | Sends any one of 29 [Limimin-themed stickers](http://t.me/addstickers/Limimin) at random. |
+| `F` or `Oof`<br>(case-insensitive) | Shortcut to `/rip`. Starts with 1 respect already paid by the sender. |
+| `T`<br>(case-insensitive) | Sends any one of 29 [Limimin-themed stickers](http://t.me/addstickers/Limimin) at random. |
 | `#<hashtag>` | Mentions a predefined list of users within a group, depending on `<hashtag>` and group used in. |
 | `/r/<subreddit>` | Provides a link to the mentioned subreddit. Also works with `r/<subreddit>`. |
 | `/u/<username>` | Provides a link to the mentioned Reddit user. Also works with `u/<username>`. |

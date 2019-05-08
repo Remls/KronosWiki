@@ -62,4 +62,5 @@
 | v 8.1 | /prayMV now supports most islands in Maldives, and can also give times for the next week | 4 Dec 2018 |
 | v 8.1.1 | Reddit linker now supports [ru]/<> as well as /[ru]/<> | 23 Apr 2019 |
 | **v 9.0** | **Python**, many commands removed or renamed, /flip /vainglory added | **1 May 2019** |
-| v 9.1 | /sticker, /mock | 2 May 2019
+| v 9.1 | /sticker, /mock | 2 May 2019 |
+| v 9.1.1 | "Oof" now also triggers /rip in a manner similar to "F" | 8 May 2019 |
