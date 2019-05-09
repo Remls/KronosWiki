@@ -66,3 +66,4 @@
 | v 9.1.1 | "Oof" now also triggers /rip in a manner similar to "F" | 8 May 2019 |
 | v 9.2 | /backup | 9 May 2019 |
 | v 9.2.1 | Added uptime output to /ping | 9 May 2019 |
+| v 9.2.2 | Added cancelling feature to /forward | 9 May 2019 |
