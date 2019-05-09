@@ -33,5 +33,5 @@
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
-| `/backup` | Expected to be run before downtime. Backs up `/forward` queue, which will be imported again at next bot startup. | **Not accepted.** |
+| `/backup` | Backs up `/forward` queue, which will be imported again at next bot startup. Expected to be run before downtime. | **Not accepted.** |
 | `/echo` | Echoes any text that is input. Can also use replies to use others' text as input (provided you reply to a text message). | **Needed.**<br>`/echo _Some_ *text*` will output "\_Some\_ \*text\*".<br>`/echo -m _Some_ *text*` will output "*Some* **text**". |
