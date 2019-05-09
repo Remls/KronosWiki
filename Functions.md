@@ -4,7 +4,6 @@
 | --- | --- | --- |
 | `/cal`<br>`/c` | Calculates a given expression. Can also use replies to use previous calculations as input, where the output of the previous calculation can be used in the new `/cal` command using the keyword `ans`.<br>*(Powered by [math.js](https://mathjs.org/))* | **Needed.**<br>`/cal 2+2` = 4 <br>`/cal 2^2` = 4 <br>`/cal pi` = 3.141592653589793<br>`/cal round(ans, 2)` (in reply to previous calculation) = 3.14<br>`/cal ans+2` (without replying to anything) will show "Syntax error".<br>`/cal yo mama` will show "Syntax error". |
 | `/countdown`<br>`/cd` | Creates a refreshable countdown to a given time. | **Needed.**<br>`/countdown in 2 hours` will start a countdown to 2 hours from the time the message was sent. |
-| `/echo` | Echoes any text that is input. Can also use replies to use others' text as input (provided you reply to a text message).<br>**This action can only be performed by admins of the bot.** | **Needed.**<br>`/echo _Some_ *text*` will output "\_Some\_ \*text\*".<br>`/echo -m _Some_ *text*` will output "*Some* **text**". |
 | `/flip` | Flips a coin. Shortcut to `/rng d2`. | **Not accepted.** |
 | `/forward`<br>`/f` | Forwards a message.<br>**The command must be sent as a reply to another message.** | **Not needed, but accepted.**<br>`/forward in 3 hours` will forward the replied-to message, 3 hours from when the command was sent.<br>`/forward` (without arguments) will do the same immediately. |
 | `/help`<br>(`/start`) | Sends a prompt to use other commands, and a link to this page. Default `/start` command also does the same. | **Not accepted.** |
@@ -29,3 +28,10 @@
 | `#<hashtag>` | Mentions a predefined list of users within a group, depending on `<hashtag>` and group used in. |
 | `/r/<subreddit>` | Provides a link to the mentioned subreddit. Also works with `r/<subreddit>`. |
 | `/u/<username>` | Provides a link to the mentioned Reddit user. Also works with `u/<username>`. |
+
+## Admin commands
+
+| Command(s) | Description | Arguments |
+| --- | --- | --- |
+| `/backup` | Expected to be run before downtime. Backs up `/forward` queue, which will be imported again at next bot startup. | **Not accepted.** |
+| `/echo` | Echoes any text that is input. Can also use replies to use others' text as input (provided you reply to a text message). | **Needed.**<br>`/echo _Some_ *text*` will output "\_Some\_ \*text\*".<br>`/echo -m _Some_ *text*` will output "*Some* **text**". |
