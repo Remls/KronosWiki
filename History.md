@@ -64,6 +64,5 @@
 | **v 9.0** | **Python**, many commands removed or renamed, /flip /vainglory added | **1 May 2019** |
 | v 9.1 | /sticker, /mock | 2 May 2019 |
 | v 9.1.1 | "Oof" now also triggers /rip in a manner similar to "F" | 8 May 2019 |
-| v 9.2 | /backup | 9 May 2019 |
-| v 9.2.1 | Added uptime output to /ping | 9 May 2019 |
-| v 9.2.2 | Added cancelling feature to /forward | 9 May 2019 |
+| v 9.2 | /backup, added cancelling feature to /forward | 9 May 2019 |
+| v 9.3 | /curr | 15 May 2019 |
