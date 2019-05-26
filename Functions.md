@@ -8,7 +8,7 @@
 | `/flip` | Flips a coin. Shortcut to `/rng d2`. | **Not accepted.** |
 | `/forward`<br>`/f` | Forwards a message.<br>**The command must be sent as a reply to another message.** | **Not needed, but accepted.**<br>`/forward in 3 hours` will forward the replied-to message, 3 hours from when the command was sent.<br>`/forward` (without arguments) will do the same immediately. |
 | `/help`<br>(`/start`) | Sends a prompt to use other commands, and a link to this page. Default `/start` command also does the same. | **Not accepted.** |
-| `/hug`<br>(`/unhug`) | Provides a button to send or unsend virtual hugs. | **Not needed, but accepted.**<br>`/hug Dwayne Johnson` will provide a message customized for The Rock. |
+| `/hug` | Provides buttons to send or unsend virtual hugs. | **Not needed, but accepted.**<br>`/hug Dwayne Johnson` will provide a message customized for The Rock. |
 | `/inspire` | Sends an inspirational message.<br>*(Powered by [inspirobot.me](http://inspirobot.me/))* | **Not accepted.** |
 | `/meet`<br>`/mpt` | Selects the specified location as the bot's Live Location. Useful for groups using Live Location to meet up.<br>**The command must be sent as a reply to another location message.** | **Not needed, but accepted.**<br>`/meet at 7pm` will set that location as the bot's Live Location until 7pm.<br>`/meet` (without arguments) will do the same for the next 15 minutes by default. |
 | `/minesweeper`<br>`/mines` | Starts a game of Minesweeper that uses inline buttons. The game is played on an 8×8 grid with 10 mines. | **Not accepted.** |

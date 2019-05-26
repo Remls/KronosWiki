@@ -67,3 +67,4 @@
 | v 9.2 | /backup, added cancelling feature to /forward | 9 May 2019 |
 | v 9.3 | /curr | 15 May 2019 |
 | v 9.4 | /shame, /hug, /unhug | 25 May 2019 |
+| v 9.4.1 | /unhug merged into /hug, /ping now shows version number | 27 May 2019 |
