@@ -12,14 +12,12 @@
 | `/inspire` | Sends an inspirational message.<br>*(Powered by [inspirobot.me](http://inspirobot.me/))* | **Not accepted.** |
 | `/meet`<br>`/mpt` | Selects the specified location as the bot's Live Location. Useful for groups using Live Location to meet up.<br>**The command must be sent as a reply to another location message.** | **Not needed, but accepted.**<br>`/meet at 7pm` will set that location as the bot's Live Location until 7pm.<br>`/meet` (without arguments) will do the same for the next 15 minutes by default. |
 | `/minesweeper`<br>`/mines` | Starts a game of Minesweeper that uses inline buttons. The game is played on an 8×8 grid with 10 mines. | **Not accepted.** |
-| `/mock` | Generates mOCkiNg tExt. Can also use replies to use others' text as input (provided you reply to a text message). | **Needed.**<br>`/mock Some text` will output "SoMe tExT" (cases switching every other character).<br>`/mock -r Some text` will output the text with cases switched randomly. |
 | `/ping` | Checks if Kronos is listening. | **Not accepted.** |
 | `/pray` | Sends prayer times for Maale for the current day by default. Can also provide prayer times for the next week for any island in the Maldives.<br>*(Powered by [SalatMV](https://play.google.com/store/apps/details?id=mv.salaf.salat))* | **Not accepted.** |
 | `/rip` | Provides a button to pay respects to the deceased. | **Not needed, but accepted.**<br>`/rip my dignity` will provide a message customized for "my dignity". |
 | `/rng` | Generates random numbers with input specified using [dice notation](https://en.m.wikipedia.org/wiki/Dice_notation). | **Not needed, but accepted.**<br>`/rng 20d98` will roll a 98-sided die 20 times.<br>`/rng` (without arguments) will roll 1d6 by default (a 6-sided die once). |
 | `/shame` | Provides a button to shame someone. | **Not needed, but accepted.**<br>`/shame your cow` will provide a message customized for "your cow". |
 | `/sticker` | Edits a photo to the dimensions needed to create a Telegram sticker. The returned file can then be forwarded to the [Stickers bot](http://t.me/Stickers).<br>**The command must be sent as a reply to another .jpg or .png file message (NOT a photo message).** | **Not accepted.** |
-| `/strike`<br>`/s` | Generates ~~strikethrough text~~. Can also use replies to use others' text as input (provided you reply to a text message). | **Needed.**<br>`/strike example` will output ~~example~~. |
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
 ## Other functions
@@ -35,13 +33,13 @@
 
 ### Inline queries
 
-Type `@<bot_username>` in any chat to use these.
+Start the text message with `@<bot_username>` in any chat to use inline queries.
 
 | Trigger | Description |
 | --- | --- |
-| Mocking text (alternating) | Applies `/mock` to any text given. |
-| Mocking text (random) | Applies `/mock -r` to any text given. |
-| Strikethrough | Applies `/strike` to any text given. |
+| Mocking text (alternating) | Generates mOCkiNg tExt from any input given. The cases are switched alternatingly (i.e. first uppercase, then lowercase, then uppercase, etc.). |
+| Mocking text (random) | Generates mOCkiNg tExt from any input given. The cases are switched randomly. |
+| Strikethrough | Generates ~~strikethrough text~~ from any text given. |
 
 ## Admin commands
 
