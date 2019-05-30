@@ -23,6 +23,7 @@
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
 ## Other functions
+### Text-based functions
 
 | Trigger | Description |
 | --- | --- |
@@ -31,6 +32,16 @@
 | `#<hashtag>` | Mentions a predefined list of users within a group, depending on `<hashtag>` and group used in. |
 | `/r/<subreddit>` | Provides a link to the mentioned subreddit. Also works with `r/<subreddit>`. |
 | `/u/<username>` | Provides a link to the mentioned Reddit user. Also works with `u/<username>`. |
+
+### Inline queries
+
+Type `@<bot_username>` in any chat to use these.
+
+| Trigger | Description |
+| --- | --- |
+| Mocking text (alternating) | Applies `/mock` to any text given. |
+| Mocking text (random) | Applies `/mock -r` to any text given. |
+| Strikethrough | Applies `/strike` to any text given. |
 
 ## Admin commands
 
