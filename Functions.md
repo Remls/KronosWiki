@@ -17,7 +17,7 @@
 | `/rip` | Provides a button to pay respects to the deceased. | **Not needed, but accepted.**<br>`/rip my dignity` will provide a message customized for "my dignity". |
 | `/rng` | Generates random numbers with input specified using [dice notation](https://en.m.wikipedia.org/wiki/Dice_notation). | **Not needed, but accepted.**<br>`/rng 20d98` will roll a 98-sided die 20 times.<br>`/rng` (without arguments) will roll 1d6 by default (a 6-sided die once). |
 | `/shame` | Provides a button to shame someone. | **Not needed, but accepted.**<br>`/shame your cow` will provide a message customized for "your cow". |
-| `/sticker` | Edits a photo to the dimensions needed to create a Telegram sticker. The returned file can then be forwarded to the [Stickers bot](http://t.me/Stickers).<br>**The command must be sent as a reply to another .jpg or .png file message (NOT a photo message).** | **Not accepted.** |
+| `/sticker` | Creates a sticker out of any photo. The `sticker_resized.png` file that is returned, can be forwarded to the [Stickers bot](http://t.me/Stickers) for use in your own sticker packs.<br>**The command must be sent as a reply to a photo. If you wish to preserve transparency, the photo must be sent as a file.** | **Not accepted.** |
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
 ## Other functions
