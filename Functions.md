@@ -35,7 +35,7 @@
 
 Start the text message with `@<bot_username>` in any chat to use inline queries.
 
-| Trigger | Description |
+| Option | Description |
 | --- | --- |
 | Mocking text (alternating) | Generates mOCkiNg tExt from any input given. The cases are switched alternatingly (i.e. first uppercase, then lowercase, then uppercase, etc.). |
 | Mocking text (random) | Generates mOCkiNg tExt from any input given. The cases are switched randomly. |
