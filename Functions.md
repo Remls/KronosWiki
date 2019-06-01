@@ -1,4 +1,4 @@
-## Commands list
+## Commands
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
@@ -20,7 +20,7 @@
 | `/sticker` | Creates a sticker out of any photo. The created sticker is intended to be for one-time use (by forwarding to the chat you want to send the sticker to).<br>However, you can forward the `sticker_resized.png` file to the [Stickers bot](http://t.me/Stickers) for use in your own sticker packs.<br>**The command must be sent as a reply to a photo. If you wish to preserve transparency, the photo must be sent as a file.** | **Not accepted.** |
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
-## Other functions
+## Other user functions
 ### Text-based functions
 
 | Trigger | Description |
