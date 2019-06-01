@@ -70,3 +70,4 @@
 | v 9.4.1 | /unhug merged into /hug, /ping now shows version number | 27 May 2019 |
 | v 9.5 | /mock and /strike are now used inline instead | 30 May 2019 |
 | v 9.5.1 | /sticker now works with all photos, and creates a temporary sticker for you | 1 June 2019 |
+| v 9.6 | /download | 1 June 2019 |
