@@ -37,11 +37,11 @@
 
 Start the text message with `@<bot_username>` in any chat to use inline queries.
 
-| Option | Description |
-| --- | --- |
-| Mocking text (alternating) | Generates mOCkiNg tExt from any input given. The cases are switched alternatingly (i.e. first uppercase, then lowercase, then uppercase, etc.). |
-| Mocking text (random) | Generates mOCkiNg tExt from any input given. The cases are switched randomly. |
-| Strikethrough | Generates ~~strikethrough text~~ from any text given. |
+| Option | Description | Types |
+| --- | --- | --- |
+| Mocking text | Generates mOCkiNg tExt from any text provided. | **Alternating:** The cases are switched alternatingly (first uppercase, then lowercase, then uppercase, etc.).<br>**Random:** The cases are switched randomly. |
+| Strikethrough | Generates ~~strikethrough text~~ from any text provided. | None. |
+| Change font | Changes font of any text provided. | **Fonts available:**<br>- Cursive<br>- Old English<br>- Times New Roman<br>- Times New Roman (italics) |
 
 ## Admin commands
 
