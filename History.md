@@ -73,3 +73,4 @@
 | v 9.6 | /download | 1 June 2019 |
 | v 9.6.1 | added new triggers to /shame and /hug | 7 June 2019 |
 | v 9.6.2 | added 4 font changers to inline queries | 8 June 2019 |
+| v 9.6.3 | added ability to strikethrough only parts of text | 10 June 2019 |
