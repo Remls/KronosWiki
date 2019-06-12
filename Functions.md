@@ -2,7 +2,7 @@
 
 - [User functions](#user-functions)
   - [Commands](#commands)
-  - [Text-based functions](#textbased-functions)
+  - [Text-based functions](#text-based-functions)
   - [Inline queries](#inline-queries)
 - [Admin functions](#admin-functions)
 
