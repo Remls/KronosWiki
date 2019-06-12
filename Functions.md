@@ -1,4 +1,14 @@
-## Commands
+## Table of contents
+
+- [User functions](#user-functions)
+  - [Commands](#commands)
+  - [Text-based functions](#textbased-functions)
+  - [Inline queries](#inline-queries)
+- [Admin functions](#admin-functions)
+
+## User functions
+
+### Commands
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
@@ -21,7 +31,6 @@
 | `/sticker` | Creates a sticker out of any photo. The created sticker is intended to be for one-time use (by forwarding to the chat you want to send the sticker to).<br>However, you can forward the `sticker_resized.png` file to the [Stickers bot](http://t.me/Stickers) for use in your own sticker packs.<br>**The command must be sent as a reply to a photo. If you wish to preserve transparency, the photo must be sent as a file.** | **Not accepted.** |
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
-## Other user functions
 ### Text-based functions
 
 | Trigger | Description |
@@ -37,13 +46,13 @@
 
 Start the text message with `@<bot_username>` in any chat to use inline queries.
 
-| Option | Description | Options |
+| Option | Description | Types |
 | --- | --- | --- |
 | Mocking text | Generates mOCkiNg tExt from any text provided. | **Alternating:** The cases are switched alternatingly (first uppercase, then lowercase, then uppercase, etc.).<br>**Random:** The cases are switched randomly. |
 | Strikethrough | Generates ~~strikethrough text~~ from any text provided. | **Full text:** Strikes through the entire text provided.<br>**Part of text:** Strikes through only the part(s) of the text enclosed by tildes (~). There must be an even number of tildes present in the text provided. |
 | Change font | Changes font of any text provided. | **Fonts available:**<br>- Cursive<br>- Old English<br>- Times New Roman<br>- Times New Roman (italics) |
 
-## Admin commands
+## Admin functions
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
