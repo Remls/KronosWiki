@@ -75,4 +75,4 @@
 | v 9.6.2 | added 4 font changers to inline queries | 8 June 2019 |
 | v 9.6.3 | added ability to strikethrough only parts of text | 10 June 2019 |
 | v 9.6.4 | now can send prayer alerts to channel(s) | 18 June 2019 |
-| v 9.6.5 | /output | 19 June 2019 |
+| v 9.6.5 | /log | 19 June 2019 |
