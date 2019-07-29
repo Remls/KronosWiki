@@ -15,6 +15,7 @@
 | `/cal`<br>`/c` | Calculates a given expression. Can also use replies to use previous calculations as input, where the output of the previous calculation can be used in the new `/cal` command using the keyword `ans`.<br>*(Powered by [math.js](https://mathjs.org/))* | **Needed.**<br>`/cal 2+2` = 4 <br>`/cal 2^2` = 4 <br>`/cal pi` = 3.141592653589793<br>`/cal round(ans, 2)` (in reply to previous calculation) = 3.14<br>`/cal ans+2` (without replying to anything) will show "Syntax error".<br>`/cal hello` will show "Syntax error". |
 | `/countdown`<br>`/cd` | Creates a refreshable countdown to a given time. | **Needed.**<br>`/countdown in 2 hours` will start a countdown to 2 hours from the time the message was sent. |
 | `/curr` | Converts between currencies. A list of supported currencies is given [here](http://telegra.ph/List-of-supported-currencies-05-07).<br>*(Powered by [CurrencyLayer.com](https://currencylayer.com/))* | **Needed.**<br>`/curr 10 mvr usd` will convert 10 Maldivian Rufiyaa to US dollars.<br>`/curr .2 vnd` converts 0.2 Vietnamese đồng to a preset list of common currencies. |
+| `/doubt` | Provides a button to doubt. | **Not needed, but accepted.**<br>`/doubt myself` will provide a message customized for "myself". |
 | `/download`<br>`/dl` | Downloads audio or video from YouTube.<br>**The command must be sent as a reply to another message with a YouTube link in it.** | **Not accepted.** |
 | `/flip` | Flips a coin. Shortcut to `/rng d2`. | **Not accepted.** |
 | `/forward`<br>`/f` | Forwards a message.<br>**The command must be sent as a reply to another message.** | **Not needed, but accepted.**<br>`/forward in 3 hours` will forward the replied-to message, 3 hours from when the command was sent.<br>`/forward` (without arguments) will do the same immediately. |
@@ -36,7 +37,8 @@
 | Trigger | Description |
 | --- | --- |
 | `F` or `Oof`<br>(case-insensitive) | Shortcut to `/rip`. Starts with 1 respect already paid by the sender. |
-| `Y` or `Shame`<br>(case-insensitive) | Shortcut to `/shame`. Starts once shamed by the sender. |
+| `X`<br>(case-insensitive) | Shortcut to `/doubt`. Starts with 1 time already doubted by the sender. |
+| `Y` or `Shame`<br>(case-insensitive) | Shortcut to `/shame`. Starts with 1 time already shamed by the sender. |
 | `*(un)hug(s)*`<br>(case-insensitive) | Shortcut to `/hug`. Starts with 1 hug already sent (or unsent) by the sender. |
 | `T`<br>(case-insensitive) | Sends any one of 29 [Limimin-themed stickers](http://t.me/addstickers/Limimin) at random. |
 | `#<hashtag>` | Mentions a predefined list of users within a group, depending on `<hashtag>` and group used in. |
