@@ -78,3 +78,4 @@
 | v 9.6.5 | /log | 19 June 2019 |
 | v 9.6.6 | /sticker can now convert stickers to photos as well | 8 July 2019 |
 | v 9.6.7 | /doubt | 29 July 2019 |
+| v 9.6.8 | simple number inputs to /cd, /meet, /f are now parsed as minutes by default | 9 August 2019 |
