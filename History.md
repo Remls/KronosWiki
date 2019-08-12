@@ -31,8 +31,8 @@
 | v 6.3.1 | "whereat", "POSwhoranawaytoMalaysia" (Rafhan summon) | 23 Jan 2018 |
 | v 6.4 | /sckp, /strtxt | 24 Jan 2018 |
 | v 6.5 | - /cl4d8 (experimental)<br>- /fwdthis (experimental) | 29 Jan 2018 |
-| v 6.6 | -/mod (detailed)<br>- /pray sources added | 3 Feb 2018 |
-| v 6.6.1 | -/strtxt supports replies<br>- / is no longer optional | 4 Feb 2018 |
+| v 6.6 | - /mod (detailed)<br>- /pray sources added | 3 Feb 2018 |
+| v 6.6.1 | - /strtxt supports replies<br>- / is no longer optional | 4 Feb 2018 |
 | v 6.6.2 | - /class button rearrangement<br>- /prayMV bug fixed | 5 Feb 2018 |
 | v 6.7 | - /contacts<br>- /course button rearrangement<br>- /class output format changed | 6 Feb 2018 |
 | v 6.7.1 | - now replies to "T" with a random sticker from set of 20<br>- /clc>>cal<br>- added /c as alias to /cal | 18 Apr 2018 |
@@ -47,7 +47,7 @@
 | v 6.12.2 | - /echo<br>- /strtxt>>str<br>- both now delete original command if Kronos has that permission | 12 Aug 2018 |
 | v 6.13 | #stickerable | 15 Aug 2018 |
 | **v 7.0** | **BIT commands moved to Thoth** | **20 Aug 2018** |
-| v 7.0.1 | -/echo markdown support moved to /echom<br>- /str>>strike<br>- Thoth now sends relevant @FestMnu tweets to BIT group | 29 Aug 2018 |
+| v 7.0.1 | - /echo markdown support moved to /echom<br>- /str>>strike<br>- Thoth now sends relevant @FestMnu tweets to BIT group | 29 Aug 2018 |
 | v 7.1 | - /weather<br>- Thoth now also sends relevant @mnuBS tweets | 2 Sep 2018 |
 | v 7.1.1 | Kronos now plays Despacito if asked | 13 Sep 2018 |
 | v 7.2 | /play | 13 Sep 2018 |
