@@ -46,13 +46,14 @@
 
 ### Inline queries
 
-Start the text message with `@<bot_username>` in any chat to use inline queries.
+Start the text message with `@<bot_username> <prefix>` in any chat to use inline queries. For example, to apply glitch effect to the text "hello", type in `@<bot_username> /g hello`.
 
-| Option | Description | Types |
-| --- | --- | --- |
-| Mocking text | Generates mOCkiNg tExt from any text provided. | **Alternating:** The cases are switched alternatingly (first uppercase, then lowercase, then uppercase, etc.).<br>**Random:** The cases are switched randomly. |
-| Strikethrough | Generates ~~strikethrough text~~ from any text provided. | **Full text:** Strikes through the entire text provided.<br>**Part of text:** Strikes through only the part(s) of the text enclosed by tildes (~). There must be an even number of tildes present in the text provided. |
-| Change font | Changes font of any text provided. | **_Fonts available:_**<br>- Cursive<br>- Old English<br>- Times New Roman<br>- Times New Roman (italics) |
+| Query | Prefix<br>(case-insensitive) | Description | Options |
+| --- | --- | --- | --- |
+| Change font | `/f` | Changes font of any text provided. | **_Fonts available:_**<br>- Cursive<br>- Old English<br>- Times New Roman<br>- Times New Roman (italics) |
+| Glitched text | `/g` | Applies g̓l̴i᷇t̯ͮc̭̿hͥ͡ effect to any text provided. | **_Strengths available:_**<br>- Weak<br>- Normal<br>- Strong<br>- Illegible (italics) |
+| Mocking text | `/m` | Generates mOCkiNg tExt from any text provided. | **Alternating:** The cases are switched alternatingly (first uppercase, then lowercase, then uppercase, etc.).<br>**Random:** The cases are switched randomly. |
+| Strikethrough | `/s` | Generates ~~strikethrough text~~ from any text provided. | **Full text:** Strikes through the entire text provided.<br>**Part of text:** Strikes through only the part(s) of the text enclosed by tildes (~). There must be an even number of tildes present in the text provided. |
 
 ## Admin functions
 
