@@ -80,3 +80,4 @@
 | v 9.6.7 | /doubt | 29 July 2019 |
 | v 9.6.8 | simple number inputs to /cd, /meet, /f are now parsed as minutes by default | 9 August 2019 |
 | v 9.7 | - inline queries now require a /-command in front of them<br>- added new inline query: glitched text generator | 12 August 2019 |
+| v 9.8 | /weight | 9 November 2019 |
