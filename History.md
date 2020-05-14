@@ -82,3 +82,4 @@
 | v 9.7 | - inline queries now require a /-command in front of them<br>- added new inline query: glitched text generator | 12 August 2019 |
 | v 9.8 | /weight | 9 November 2019 |
 | v 9.8.1 | /rng can now randomly generate a list of heroes for Vainglory. | 30 March 2020 |
+| v 9.9 | /covid19 | 14 May 2020 |
