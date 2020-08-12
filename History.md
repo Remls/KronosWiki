@@ -84,3 +84,4 @@
 | v 9.8.1 | /rng can now randomly generate a list of heroes for Vainglory. | 30 March 2020 |
 | v 9.9 | /covid19 | 14 May 2020 |
 | v 9.10 | /wifi, /rcg | 30 July 2020 |
+| v 9.10.1 | /covid19 now also fetches most recent relevant Tweet from HPA | 12 August 2020 |
