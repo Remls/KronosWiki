@@ -25,6 +25,7 @@
 | `/inspire` | Sends an inspirational message.<br>*(Powered by [inspirobot.me](http://inspirobot.me/))* | **Not accepted.** |
 | `/meet`<br>`/mpt` | Selects the specified location as the bot's Live Location. Useful for groups using Live Location to meet up.<br>**The command must be sent as a reply to another location message.** | **Not needed, but accepted.**<br>`/meet at 7pm` will set that location as the bot's Live Location until 7pm.<br>`/meet 5` will set the Live Location for the next 5 minutes.<br>`/meet` (without arguments) will set the Live Location for the next 15 minutes (default). |
 | `/minesweeper`<br>`/mines` | Starts a game of Minesweeper that uses inline buttons. The game is played on an 8×8 grid with 10 mines. | **Not accepted.** |
+| `/nice` | Provides a button to nice. | **Not accepted.** |
 | `/ping` | Checks if Kronos is listening. | **Not accepted.** |
 | `/pray` | Sends prayer times for Maale for the current day by default. Can also provide prayer times for the next week for any island in the Maldives.<br>*(Powered by [SalatMV](https://play.google.com/store/apps/details?id=mv.salaf.salat))* | **Not accepted.** |
 | `/rip` | Provides a button to pay respects. | **Not needed, but accepted.**<br>`/rip my dignity` will provide a message customized for "my dignity". |
@@ -43,6 +44,7 @@
 | `Y` or `Shame`<br>(case-insensitive) | Shortcut to `/shame`. Starts with 1 time already shamed by the sender. |
 | `*(un)hug(s)*`<br>(case-insensitive) | Shortcut to `/hug`. Starts with 1 hug already sent (or unsent) by the sender. |
 | `T`<br>(case-insensitive) | Sends any one of 29 [Limimin-themed stickers](http://t.me/addstickers/Limimin) at random. |
+| `69`<br>(in any position ... ( ͡° ͜ʖ ͡°) ... of the message) | Shortcut to `/nice`. Starts with 1 nice already sent by the sender. |
 | `#<hashtag>` | Mentions a predefined list of users within a group, depending on `<hashtag>` and group used in. |
 | `/r/<subreddit>`<br>`/u/<username>` | Provides a link to the mentioned subreddit or Reddit user. Also works with `r/<subreddit>`/`u/<username>`. |
 
