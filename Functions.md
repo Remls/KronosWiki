@@ -43,8 +43,8 @@
 | `X`<br>(case-insensitive) | Shortcut to `/doubt`. Starts with 1 time already doubted by the sender. |
 | `Y` or `Shame`<br>(case-insensitive) | Shortcut to `/shame`. Starts with 1 time already shamed by the sender. |
 | `*(un)hug(s)*`<br>(case-insensitive) | Shortcut to `/hug`. Starts with 1 hug already sent (or unsent) by the sender. |
-| `T`<br>(case-insensitive) | Sends any one of 29 [Limimin-themed stickers](http://t.me/addstickers/Limimin) at random. |
 | `69`<br>(in any position ... ( ͡° ͜ʖ ͡°) ... of the message) | Shortcut to `/nice`. Starts with 1 nice already sent by the sender. |
+| `T`<br>(case-insensitive) | Sends any one of 29 [Limimin-themed stickers](http://t.me/addstickers/Limimin) at random. |
 | `#<hashtag>` | Mentions a predefined list of users within a group, depending on `<hashtag>` and group used in. |
 | `/r/<subreddit>`<br>`/u/<username>` | Provides a link to the mentioned subreddit or Reddit user. Also works with `r/<subreddit>`/`u/<username>`. |
 
