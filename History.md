@@ -87,3 +87,4 @@
 | v 9.10.1 | /covid19 now also fetches most recent relevant Tweet from HPA | 12 August 2020 |
 | v 9.11 (v 69) | /nice | 29 September 2020 |
 | v 9.12 | /resin | 21 November 2020 |
+| v 9.12.1 | /resin now sends notifications once filled completely | 21 November 2020 |
