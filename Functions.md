@@ -2,6 +2,7 @@
 
 - [User functions](#user-functions)
   - [Commands](#commands)
+  - [Game commands](#game-commands)
   - [Text-based functions](#text-based-functions)
   - [Inline queries](#inline-queries)
 - [Admin functions](#admin-functions)
@@ -29,11 +30,17 @@
 | `/ping` | Checks if Kronos is listening. | **Not accepted.** |
 | `/pray` | Sends prayer times for Maale for the current day by default. Can also provide prayer times for the next week for any island in the Maldives.<br>*(Powered by [SalatMV](https://play.google.com/store/apps/details?id=mv.salaf.salat))* | **Not accepted.** |
 | `/rcg` | Generates a random Cyanide & Happiness comic.<br>*(Powered by [explosm.net](http://explosm.net/rcg))* | **Not accepted.** |
-| `/resin`<br>`/res` | Resin tracker for Genshin Impact. | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit. |
 | `/rip` | Provides a button to pay respects. | **Not needed, but accepted.**<br>`/rip my dignity` will provide a message customized for "my dignity". |
 | `/rng` | - Generates random numbers with input specified using [dice notation](https://en.m.wikipedia.org/wiki/Dice_notation).<br>- Randomly selects a list of heroes for a game of Vainglory. | **Not needed, but accepted.**<br>`/rng 20d98` will roll a 98-sided die 20 times.<br>`/rng` (without arguments) will roll 1d6 by default (a 6-sided die once).<br>`/rng vg` will select one hero at random.<br>`/rng vg7` will select 7 heroes at random. |
 | `/shame` | Provides a button to shame. | **Not needed, but accepted.**<br>`/shame your cow` will provide a message customized for "your cow". |
 | `/sticker` | Creates a sticker out of any photo, or a photo out of any sticker.<br>**_For stickers out of photos:_**<br>- **The command must be sent as a reply to a photo.**<br>- If you wish to preserve transparency, the photo must be sent as a **file message**. Only file messages of .JPG or .PNG format are supported.<br>- The created sticker is intended to be for one-time use (by forwarding to the chat you want to send the sticker to).<br>- If you wish to reuse the sticker, a `sticker_resized.png` file is provided that is the required resolution to be used in the [Stickers bot](http://t.me/Stickers). You can forward this file as-is to the Stickers bot when prompted, and add the sticker to one of your own packs.<br>**_For photos out of stickers:_**<br>- **The command must be sent as a reply to a sticker.**<br>- The returned file is in .PNG format.<br>- **Known issue:** It is not yet possible to differentiate between animated and non-animated stickers, so if this command is used on an animated sticker, you will get an invalid .PNG file. **Workaround:** You could change the extension of the file to .TGS yourself. The .TGS file is then reusable in chats, as well as input for the [Stickers bot](http://t.me/Stickers). | **Not accepted.** |
+
+### Game commands
+
+| Command(s) | Description | Arguments |
+| --- | --- | --- |
+| `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit. |
+| `/rng vg` | Randomly selects a list of heroes for a game of [Vainglory](https://www.vainglorygame.com/). | **Needed.**<br>`/rng vg` will select one hero at random.<br>`/rng vg7` will select 7 heroes at random. |
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
 ### Text-based functions
