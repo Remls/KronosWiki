@@ -88,4 +88,5 @@
 | v 9.11 (v 69) | /nice | 29 September 2020 |
 | v 9.12 | /resin | 21 November 2020 |
 | v 9.12.1 | /resin now sends notifications once filled completely | 21 November 2020 |
-| v 9.12.2 | /resin can now send notifications when any custom value is hit | 21 November 2020 |
+| v 9.12.2 | /resin -A can now send notifications when any custom value is hit | 21 November 2020 |
+| v 9.12.3 | /resin -L can now get values of all players | 24 November 2020 |

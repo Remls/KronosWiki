@@ -39,7 +39,7 @@
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
-| `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit. |
+| `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit.<br>`/resin -l` will return list of all resin values. |
 | `/rng vg` | Randomly selects a list of heroes for a game of [Vainglory](https://www.vainglorygame.com/). | **Needed.**<br>`/rng vg` will select one hero at random.<br>`/rng vg7` will select 7 heroes at random. |
 | `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
