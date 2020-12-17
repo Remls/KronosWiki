@@ -91,3 +91,4 @@
 | v 9.12.2 | /resin -A can now send notifications when any custom value is hit | 21 November 2020 |
 | v 9.12.3 | /resin -L can now get values of all players | 24 November 2020 |
 | v 9.13 | /domains | 17 December 2020 |
+| v 9.13.1 | /domains now lists related characters for talent domains | 17 December 2020 |
