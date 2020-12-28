@@ -3,10 +3,10 @@
 - [Table of contents](#table-of-contents)
 - [User functions](#user-functions)
   - [Commands](#commands)
-  - [Game commands](#game-commands)
   - [Text-based functions](#text-based-functions)
   - [Inline queries](#inline-queries)
 - [Admin functions](#admin-functions)
+- [Ningguang](#ningguang)
 
 ## User functions
 
@@ -35,16 +35,6 @@
 | `/rng` | - Generates random numbers with input specified using [dice notation](https://en.m.wikipedia.org/wiki/Dice_notation).<br>- Randomly selects a list of heroes for a game of Vainglory. | **Not needed, but accepted.**<br>`/rng 20d98` will roll a 98-sided die 20 times.<br>`/rng` (without arguments) will roll 1d6 by default (a 6-sided die once).<br>`/rng vg` will select one hero at random.<br>`/rng vg7` will select 7 heroes at random. |
 | `/shame` | Provides a button to shame. | **Not needed, but accepted.**<br>`/shame your cow` will provide a message customized for "your cow". |
 | `/sticker` | Creates a sticker out of any photo, or a photo out of any sticker.<br>**_For stickers out of photos:_**<br>- **The command must be sent as a reply to a photo.**<br>- If you wish to preserve transparency, the photo must be sent as a **file message**. Only file messages of .JPG or .PNG format are supported.<br>- The created sticker is intended to be for one-time use (by forwarding to the chat you want to send the sticker to).<br>- If you wish to reuse the sticker, a `sticker_resized.png` file is provided that is the required resolution to be used in the [Stickers bot](http://t.me/Stickers). You can forward this file as-is to the Stickers bot when prompted, and add the sticker to one of your own packs.<br>**_For photos out of stickers:_**<br>- **The command must be sent as a reply to a sticker.**<br>- The returned file is in .PNG format.<br>- **Known issue:** It is not yet possible to differentiate between animated and non-animated stickers, so if this command is used on an animated sticker, you will get an invalid .PNG file. **Workaround:** You could change the extension of the file to .TGS yourself. The .TGS file is then reusable in chats, as well as input for the [Stickers bot](http://t.me/Stickers). | **Not accepted.** |
-
-### Game commands
-
-| Command(s) | Description | Arguments |
-| --- | --- | --- |
-| `/domains`<br>`/dom` | Sends info about active domains in [Genshin Impact](https://genshin.mihoyo.com/en). | **Not accepted.** |
-| `/events` | Sends info about active events in [Genshin Impact](https://genshin.mihoyo.com/en). | **Not accepted.** |
-| `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit.<br>`/resin -l` will return list of all resin values. |
-| `/rng vg` | Randomly selects a list of heroes for a game of [Vainglory](https://www.vainglorygame.com/). | **Needed.**<br>`/rng vg` will select one hero at random.<br>`/rng vg7` will select 7 heroes at random. |
-| `/vainglory`<br>`/vg` | Shows information for heroes in [Vainglory](https://www.vainglorygame.com/). | **Not needed, but accepted.**<br>`/vainglory san feng` will provide details for San Feng. |
 
 ### Text-based functions
 
@@ -77,3 +67,12 @@ Start the text message with `@<bot_username> <prefix>` in any chat to use inline
 | `/backup` | Backs up `/forward` queue, which will be imported again at next bot startup. Expected to be run before downtime. | **Not accepted.** |
 | `/echo` | Echoes any text that is input. Can also use replies to use others' text as input (provided you reply to a text message). | **Needed.**<br>`/echo _Some_ *text*` will output "\_Some\_ \*text\*".<br>`/echo -m _Some_ *text*` will output "*Some* **text**". |
 | `/log` | Fetch `output.log`, for debugging purposes. | **Not accepted.** |
+
+## [Ningguang](https://genshin.mihoyo.com/en)
+
+| Command(s) | Description | Arguments |
+| --- | --- | --- |
+| `/craft` | Check if you have enough items to craft. | **Needed.**<br>`/craft 9,0,123 24,0,0` will calculate based on you having 9 ★★★★ and 123 ★★, and needing 24 ★★★★. | 
+| `/domains`<br>`/dom` | Sends info about active domains. | **Not accepted.** |
+| `/events` | Sends info about active events. | **Not accepted.** |
+| `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit.<br>`/resin -l` will return list of all resin values. |
