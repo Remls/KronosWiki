@@ -69,28 +69,29 @@
 | v 9.4 | /shame, /hug, /unhug | 25 May 2019 |
 | v 9.4.1 | - /unhug merged into /hug<br>- /ping now shows version number | 27 May 2019 |
 | v 9.5 | /mock and /strike are now used inline instead | 30 May 2019 |
-| v 9.5.1 | /sticker now works with all photos, and creates a temporary sticker for you | 1 June 2019 |
-| v 9.6 | /download | 1 June 2019 |
-| v 9.6.1 | added new triggers to /shame and /hug | 7 June 2019 |
-| v 9.6.2 | added 4 font changers to inline queries | 8 June 2019 |
-| v 9.6.3 | added ability to strikethrough only parts of text | 10 June 2019 |
-| v 9.6.4 | now can send prayer alerts to channel(s) | 18 June 2019 |
-| v 9.6.5 | /log | 19 June 2019 |
-| v 9.6.6 | /sticker can now convert stickers to photos as well | 8 July 2019 |
-| v 9.6.7 | /doubt | 29 July 2019 |
-| v 9.6.8 | simple number inputs to /cd, /meet, /f are now parsed as minutes by default | 9 August 2019 |
-| v 9.7 | - inline queries now require a /-command in front of them<br>- added new inline query: glitched text generator | 12 August 2019 |
-| v 9.8 | /weight | 9 November 2019 |
-| v 9.8.1 | /rng can now randomly generate a list of heroes for Vainglory. | 30 March 2020 |
+| v 9.5.1 | /sticker now works with all photos, and creates a temporary sticker for you | 1 Jun 2019 |
+| v 9.6 | /download | 1 Jun 2019 |
+| v 9.6.1 | added new triggers to /shame and /hug | 7 Jun 2019 |
+| v 9.6.2 | added 4 font changers to inline queries | 8 Jun 2019 |
+| v 9.6.3 | added ability to strikethrough only parts of text | 10 Jun 2019 |
+| v 9.6.4 | now can send prayer alerts to channel(s) | 18 Jun 2019 |
+| v 9.6.5 | /log | 19 Jun 2019 |
+| v 9.6.6 | /sticker can now convert stickers to photos as well | 8 Jul 2019 |
+| v 9.6.7 | /doubt | 29 Jul 2019 |
+| v 9.6.8 | simple number inputs to /cd, /meet, /f are now parsed as minutes by default | 9 Aug 2019 |
+| v 9.7 | - inline queries now require a /-command in front of them<br>- added new inline query: glitched text generator | 12 Aug 2019 |
+| v 9.8 | /weight | 9 Nov 2019 |
+| v 9.8.1 | /rng can now randomly generate a list of heroes for Vainglory. | 30 Mar 2020 |
 | v 9.9 | /covid19 | 14 May 2020 |
-| v 9.10 | /wifi, /rcg | 30 July 2020 |
-| v 9.10.1 | /covid19 now also fetches most recent relevant Tweet from HPA | 12 August 2020 |
-| v 9.11 (v 69) | /nice | 29 September 2020 |
-| v 9.12 | /resin | 21 November 2020 |
-| v 9.12.1 | /resin now sends notifications once filled completely | 21 November 2020 |
-| v 9.12.2 | /resin -A can now send notifications when any custom value is hit | 21 November 2020 |
-| v 9.12.3 | /resin -L can now get values of all players | 24 November 2020 |
-| v 9.13 | /domains | 17 December 2020 |
-| v 9.13.1 | /domains now lists related characters for talent domains | 17 December 2020 |
-| v 9.14 | /events | 21 December 2020 |
-| v 9.14.1 | /domains and /events now use inline buttons | 22 December 2020 |
+| v 9.10 | /wifi, /rcg | 30 Jul 2020 |
+| v 9.10.1 | /covid19 now also fetches most recent relevant Tweet from HPA | 12 Aug 2020 |
+| v 9.11 (v 69) | /nice | 29 Sep 2020 |
+| v 9.12 | /resin | 21 Nov 2020 |
+| v 9.12.1 | /resin now sends notifications once filled completely | 21 Nov 2020 |
+| v 9.12.2 | /resin -A can now send notifications when any custom value is hit | 21 Nov 2020 |
+| v 9.12.3 | /resin -L can now get values of all players | 24 Nov 2020 |
+| v 9.13 | /domains | 17 Dec 2020 |
+| v 9.13.1 | /domains now lists related characters for talent domains | 17 Dec 2020 |
+| v 9.14 | /events | 21 Dec 2020 |
+| v 9.14.1 | /domains and /events now use inline buttons | 22 Dec 2020 |
+| **v 10.0** | **GI commands moved to Ningguang** | **28 Dec 2020** |
