@@ -72,7 +72,7 @@ Start the text message with `@<bot_username> <prefix>` in any chat to use inline
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
-| `/craft` | Check if you have enough items to craft. | **Needed.**<br>`/craft 9,0,123 24,0,0` will calculate based on you having 9 ★★★★ and 123 ★★, and needing 24 ★★★★. | 
+| `/craft` | Check if you have enough items to craft. | **Needed.**<br>Send command for full helptext. | 
 | `/domains`<br>`/dom` | Sends info about active domains. | **Not accepted.** |
 | `/events` | Sends info about active events. | **Not accepted.** |
 | `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit.<br>`/resin -l` will return list of all resin values. |
