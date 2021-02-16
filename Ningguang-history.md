@@ -7,3 +7,4 @@
 | v 1.3 | /craft now stored wanted values | 9 Jan 2021 |
 | v 1.3.1 | /domains now links to character wikis as well | 30 Jan 2021 |
 | v 1.4 | /resin can now calculate how much resin can be gotten by a given time | 16 Feb 2021 |
+| v 1.4.1 | /resin @ can now set alerts as well | 16 Feb 2021 |
