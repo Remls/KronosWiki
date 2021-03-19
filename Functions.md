@@ -76,3 +76,4 @@ Start the text message with `@<bot_username> <prefix>` in any chat to use inline
 | `/domains`<br>`/dom` | Sends info about active domains. | **Not accepted.** |
 | `/events` | Sends info about active events. | **Not accepted.** |
 | `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/resin 40` will set your current resin value to 40.<br>`/resin -a 69` will set an alert for when your resin value reaches 69.<br>`/resin` will return current status of resin, as well as when alert values are expected to be hit.<br>`/resin @ 2pm` will return expected resin value at 2pm Maldivian Time.<br>`/resin @ 2pm MYT` will return expected resin value at 2pm Malaysian Time. |
+| `/wish`<br>`/pity` | Pity tracker for wishes in [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>Send command for full helptext. |
