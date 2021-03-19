@@ -9,3 +9,4 @@
 | v 1.4 | /resin can now calculate how much resin can be gotten by a given time | 16 Feb 2021 |
 | v 1.4.1 | /resin @ can now set alerts as well | 16 Feb 2021 |
 | v 1.4.2 | added a sticker trigger to /ping | 18 Feb 2021 |
+| v 1.5 | /wish | 19 Mar 2021 |
