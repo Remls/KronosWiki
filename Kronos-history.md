@@ -96,3 +96,4 @@
 | v 9.14.1 | /domains and /events now use inline buttons | 22 Dec 2020 |
 | **v 10.0** | **GI commands moved to Ningguang** | **28 Dec 2020** |
 | v 10.0.1 | /wifi caption update, /sticker now removes status message once done | 13 Apr 2021 |
+| v 10.1 | customized reminder | 9 May 2021 |
