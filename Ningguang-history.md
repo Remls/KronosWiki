@@ -12,4 +12,5 @@
 | v 1.5 | /wish | 19 Mar 2021 |
 | v 1.5.1 | /wish now supports soft pity | 22 Mar 2021 |
 | v 1.5.2 | /wish now displays banner information | 17 May 2021 |
-| v 1.6 | /serenitea | 21 Mar 2021 |
+| v 1.6 | /serenitea | 21 May 2021 |
+| v 1.6.1 | Fuck Fischl. | 28 May 2021 |
