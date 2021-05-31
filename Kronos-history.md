@@ -98,3 +98,4 @@
 | v 10.0.1 | /wifi caption update, /sticker now removes status message once done | 13 Apr 2021 |
 | v 10.1 | customized reminder | 9 May 2021 |
 | v 10.2 | /mkdls | 19 May 2021 |
+| v 10.2.1 | sus | 1 Jun 2021 |
