@@ -1,5 +1,5 @@
 | Version | Description | Date |
-| --- | --- | --- |
+|---------|-------------|------|
 | **-** | **Bot registered with BotFather** | **28 Dec 2020** |
 | **v 1.0** | **Initial deployment** | **28 Dec 2020** |
 | v 1.1 | /ping, /help, /start | 28 Dec 2020 |
@@ -15,3 +15,4 @@
 | v 1.6 | /serenitea | 21 May 2021 |
 | v 1.6.1 | Fuck Fischl. | 28 May 2021 |
 | v 1.7 | /wiki | 9 Jun 2021 |
+| v 1.7.1 | event notification support ([@TheJadeChamber](https://t.me/TheJadeChamber)) | 20 Jul 2021 |
