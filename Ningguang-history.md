@@ -16,3 +16,4 @@
 | v 1.6.1 | Fuck Fischl. | 28 May 2021 |
 | v 1.7 | /wiki | 9 Jun 2021 |
 | v 1.7.1 | event notification support ([@TheJadeChamber](https://t.me/TheJadeChamber)) | 20 Jul 2021 |
+| v 1.7.2 | /domains now split by domain type | 21 Jul 2021 |
