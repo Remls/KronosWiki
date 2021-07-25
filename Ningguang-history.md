@@ -18,3 +18,4 @@
 | v 1.7.1 | event notification support ([@TheJadeChamber](https://t.me/TheJadeChamber)) | 20 Jul 2021 |
 | v 1.7.2 | /domains now split by domain type | 21 Jul 2021 |
 | V 1.7.3 | recurring event notification support ([@TheJadeChamber](https://t.me/TheJadeChamber)) | 22 Jul 2021 |
+| v 1.7.4 | /resin now allows setting current value and alert value at the same time | 26 Jul 2021 |
