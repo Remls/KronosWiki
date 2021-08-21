@@ -99,3 +99,5 @@
 | v 10.1 | customized reminder | 9 May 2021 |
 | v 10.2 | /mkdls | 19 May 2021 |
 | v 10.2.1 | sus | 1 Jun 2021 |
+| v 10.3 | /wifi now automatically updates itself when called | 16 Aug 2021 |
+| v 10.3.1 | /wifi now sends graph even if auto-update fails | 21 Aug 2021 |
