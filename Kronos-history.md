@@ -101,3 +101,5 @@
 | v 10.2.1 | sus | 1 Jun 2021 |
 | v 10.3 | /wifi now automatically updates itself when called | 16 Aug 2021 |
 | v 10.3.1 | /wifi now sends graph even if auto-update fails | 21 Aug 2021 |
+| v 10.3.2 | /wifi now sends bill notifications | 22 Aug 2021 |
+| v 10.3.3 | /download now works with TikTok | 24 Aug 2021 |
