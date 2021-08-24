@@ -103,3 +103,4 @@
 | v 10.3.1 | /wifi now sends graph even if auto-update fails | 21 Aug 2021 |
 | v 10.3.2 | /wifi now sends bill notifications | 22 Aug 2021 |
 | v 10.3.3 | /download now works with TikTok | 24 Aug 2021 |
+| v 10.3.4 | TikTok links sent are automatically downloaded | 24 Aug 2021 |
