@@ -104,3 +104,4 @@
 | v 10.3.2 | /wifi now sends bill notifications | 22 Aug 2021 |
 | v 10.3.3 | /download now works with TikTok | 24 Aug 2021 |
 | v 10.3.4 | TikTok links sent are automatically downloaded | 24 Aug 2021 |
+| v 10.3.5 | /download now works with most sites | 30 Sep 2021 |
