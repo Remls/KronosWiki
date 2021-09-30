@@ -1,5 +1,5 @@
-[List of functions](Functions)
+#### [List of functions](functions)
 
-[Kronos's history](Kronos-history)
-
-[Ningguang's history](Ningguang-history)
+#### History
+- ##### [Kronos](kronos-history)
+- ##### [Ningguang](ningguang-history)
