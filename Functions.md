@@ -19,7 +19,7 @@
 | `/covid19`<br>`/c19` | Sends statistics about COVID-19 situation in Maldives. | **Not accepted.** |
 | `/curr` | Converts between currencies. A list of supported currencies is given [here](http://telegra.ph/List-of-supported-currencies-05-07).<br>*(Powered by [CurrencyLayer.com](https://currencylayer.com/))* | **Needed.**<br>`/curr 10 mvr usd` will convert 10 Maldivian Rufiyaa to US dollars.<br>`/curr .2 vnd` converts 0.2 Vietnamese đồng to a preset list of common currencies. |
 | `/doubt` | Provides a button to doubt. | **Not needed, but accepted.**<br>`/doubt myself` will provide a message customized for "myself". |
-| `/download`<br>`/dl` | Downloads audio or video from YouTube.<br>**The command must be sent as a reply to another message with a YouTube link in it.** | **Not accepted.** |
+| `/download`<br>`/dl` | Downloads from links.<br>The command may also be sent as a reply to another message with one or more links in it. | `/download <YouTube link>` prompts to choose between audio or video.<br>`/download <TikTok link>` downloads the TikTok video. |
 | `/flip` | Flips a coin. Shortcut to `/rng d2`. | **Not accepted.** |
 | `/forward`<br>`/f` | Forwards a message.<br>**The command must be sent as a reply to another message.** | **Not needed, but accepted.**<br>`/forward in 3 hours` will forward the replied-to message, 3 hours from when the command was sent.<br>`/forward 2` will forward the message in 2 minutes.<br>`/forward` (without arguments) will forward the message immediately. |
 | `/help`<br>(`/start`) | Sends a prompt to use other commands, and a link to this page. Default `/start` command also does the same. | **Not accepted.** |
