@@ -106,3 +106,4 @@
 | v 10.3.4 | TikTok links sent are automatically downloaded | 24 Aug 2021 |
 | v 10.3.5 | /download now works with most sites | 30 Sep 2021 |
 | v 10.4 | /stats | 3 Oct 2021 |
+| v 10.4.1 | /download now has a progress indicator | 16 Nov 2021 |
