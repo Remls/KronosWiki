@@ -107,3 +107,4 @@
 | v 10.3.5 | /download now works with most sites | 30 Sep 2021 |
 | v 10.4 | /stats | 3 Oct 2021 |
 | v 10.4.1 | /download now has a progress indicator | 16 Nov 2021 |
+| v 10.4.2 | responses to counter shortcuts now delete themselves | 19 Nov 2021 |
