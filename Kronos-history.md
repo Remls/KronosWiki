@@ -110,3 +110,4 @@
 | v 10.4.2 | responses to counter shortcuts now delete themselves | 19 Nov 2021 |
 | v 10.4.3 | added time calculations to /cal | 19 Nov 2021 |
 | v 10.5 | /delete | 26 Nov 2021 |
+| v 10.5.1 | YouTube Shorts links sent are automatically downloaded | 26 Nov 2021 |
