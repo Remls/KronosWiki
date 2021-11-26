@@ -18,6 +18,7 @@
 | `/countdown`<br>`/cd` | Creates a refreshable countdown to a given time. | **Needed.**<br>`/countdown in 2 hours` will start a countdown to 2 hours from the time the message was sent.<br>`/countdown 90` will start a countdown to 90 minutes from the time the message was sent. |
 | `/covid19`<br>`/c19` | Sends statistics about COVID-19 situation in Maldives. | **Not accepted.** |
 | `/curr` | Converts between currencies. A list of supported currencies is given [here](http://telegra.ph/List-of-supported-currencies-05-07).<br>*(Powered by [CurrencyLayer.com](https://currencylayer.com/))* | **Needed.**<br>`/curr 10 mvr usd` will convert 10 Maldivian Rufiyaa to US dollars.<br>`/curr .2 vnd` converts 0.2 Vietnamese đồng to a preset list of common currencies. |
+| `/delete` | Reply to a photo/video/sticker/GIF to have a 50% chance of deleting that message. | **Not needed.** |
 | `/doubt` | Provides a button to doubt. | **Not needed, but accepted.**<br>`/doubt myself` will provide a message customized for "myself". |
 | `/download`<br>`/dl` | Downloads from links.<br>The command may also be sent as a reply to another message with one or more links in it. | `/download <YouTube link>` prompts to choose between audio or video.<br>`/download <TikTok link>` downloads the TikTok video. |
 | `/flip` | Flips a coin. Shortcut to `/rng d2`. | **Not accepted.** |
