@@ -20,3 +20,4 @@
 | V 1.7.3 | recurring event notification support ([@TheJadeChamber](https://t.me/TheJadeChamber)) | 22 Jul 2021 |
 | v 1.7.4 | /resin now allows setting current value and alert value at the same time | 26 Jul 2021 |
 | v 1.8 | Add support for character wish 2 (to be introduced in v2.3) | 13 Nov 2021 |
+| v 1.9 | /domains now also shows all boss rewards | 10 Jan 2022 |

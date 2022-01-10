@@ -74,7 +74,7 @@ Start the text message with `@<bot_username> <prefix>` in any chat to use inline
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
 | `/craft` | Check if you have enough items to craft. | **Needed.**<br>Send command for full helptext. | 
-| `/domains`<br>`/dom` | Sends info about active domains. | **Not accepted.** |
+| `/domains`<br>`/dom`<br>`/bosses` | Sends info about domains and bosses. | **Not accepted.** |
 | `/events` | Sends info about active events. | **Not accepted.** |
 | `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/serenitea`<br>`/pot`<br>`/stp` | Serenitea Pot currency tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/serenitea 420` will set your current currency value to 420.<br>`/serenitea` will return current status of your Serenitea Pot, as well as when max currency is expected to be hit. |
