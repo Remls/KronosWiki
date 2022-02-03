@@ -21,3 +21,4 @@
 | v 1.7.4 | /resin now allows setting current value and alert value at the same time | 26 Jul 2021 |
 | v 1.8 | Add support for character wish 2 (to be introduced in v2.3) | 13 Nov 2021 |
 | v 1.9 | /domains now also shows all boss rewards | 10 Jan 2022 |
+| v 1.10 | /code | 3 Feb 2022 |
