@@ -74,6 +74,7 @@ Start the text message with `@<bot_username> <prefix>` in any chat to use inline
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
+| `/abyss` | View details about the current Spiral Abyss. | **Not accepted.** |
 | `/craft` | Check if you have enough items to craft. | **Needed.**<br>Send command for full helptext. | 
 | `/domains`<br>`/dom`<br>`/bosses` | Sends info about domains and bosses. | **Not accepted.** |
 | `/events` | Sends info about active events. | **Not accepted.** |
