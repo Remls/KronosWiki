@@ -23,3 +23,4 @@
 | v 1.9 | /domains now also shows all boss rewards | 10 Jan 2022 |
 | v 1.9.1 | character birthdays notification support ([@TheJadeChamber](https://t.me/TheJadeChamber)) | 24 Jan 2022 |
 | v 1.10 | /code | 3 Feb 2022 |
+| v 1.11 | /abyss | 16 Apr 2022 |
