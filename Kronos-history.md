@@ -114,3 +114,4 @@
 | v 10.5.2 | /delete stats are now shown in /stats | 9 Dec 2021 |
 | v 10.5.3 | /wifi: add projected end point | 4 Jan 2022 |
 | v 10.6 | /wordle | 11 Feb 2022 |
+| v 10.7 | birthdays | 19 Apr 2022 |
