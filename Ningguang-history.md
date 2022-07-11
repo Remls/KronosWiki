@@ -24,3 +24,4 @@
 | v 1.9.1 | character birthdays notification support ([@TheJadeChamber](https://t.me/TheJadeChamber)) | 24 Jan 2022 |
 | v 1.10 | /code | 3 Feb 2022 |
 | v 1.11 | /abyss | 16 Apr 2022 |
+| v 1.12 | added shortcuts for playable characters in /wiki | 11 Jul 2022 |
