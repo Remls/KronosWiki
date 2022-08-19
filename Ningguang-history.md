@@ -26,3 +26,4 @@
 | v 1.11 | /abyss | 16 Apr 2022 |
 | v 1.12 | added shortcuts for playable characters in /wiki | 11 Jul 2022 |
 | v 1.13 | added buttons to set/clear alerts in /resin | 17 Aug 2022 |
+| v 1.13.1 | move resin buttons to separate menu | 19 Aug 2022 |
