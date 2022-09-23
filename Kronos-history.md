@@ -117,3 +117,4 @@
 | v 10.7 | birthdays | 19 Apr 2022 |
 | v 10.7.1 | /weight can now display by time period | 4 Jun 2022 |
 | v 10.8 | added support for resizing for emojis in /sticker | 13 Aug 2022 |
+| v 10.9 | Twitter links now returned link with fixed embeds | 23 Sep 2022 |
