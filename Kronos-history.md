@@ -118,3 +118,5 @@
 | v 10.7.1 | /weight can now display by time period | 4 Jun 2022 |
 | v 10.8 | added support for resizing for emojis in /sticker | 13 Aug 2022 |
 | v 10.9 | Twitter links now returned link with fixed embeds | 23 Sep 2022 |
+| v 10.10 | /time | 16 Oct 2022 |
+| v 10.10.1 | Add refresh button to /time | 16 Oct 2022 |
