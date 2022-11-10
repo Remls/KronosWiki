@@ -76,10 +76,10 @@ Start the text message with `@<bot_username> <prefix>` in any chat to use inline
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
 | `/abyss` | View details about the current Spiral Abyss. | **Not accepted.** |
+| `/banner`<br>`/pity`<br>`/wish` | Pity tracker for wishes in [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/craft` | Check if you have enough items to craft. | **Needed.**<br>Send command for full helptext. | 
 | `/domains`<br>`/dom`<br>`/bosses` | Sends info about domains and bosses. | **Not accepted.** |
-| `/events` | Sends info about active events. | **Not accepted.** |
-| `/resin`<br>`/res` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>Send command for full helptext. |
+| `/events`<br>`/ev` | Sends info about active events. | **Not accepted.** |
+| `/resin`<br>`/res`<br>`/r` | Resin tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/serenitea`<br>`/pot`<br>`/stp` | Serenitea Pot currency tracker for [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>`/serenitea 420` will set your current currency value to 420.<br>`/serenitea` will return current status of your Serenitea Pot, as well as when max currency is expected to be hit. |
 | `/wiki` | Searches the wiki for a matching page.<br>*(Powered by [Fandom.com](https://genshin-impact.fandom.com/) and [Honey Impact](https://genshin.honeyhunterworld.com/))* | **Not needed, but accepted.**<br>Supplying no search query provides a list of resources. |
-| `/wish`<br>`/pity` | Pity tracker for wishes in [Genshin Impact](https://genshin.mihoyo.com/en). | **Not needed, but accepted.**<br>Send command for full helptext. |
