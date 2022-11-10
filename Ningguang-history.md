@@ -29,3 +29,4 @@
 | v 1.13.1 | move resin buttons to separate menu | 19 Aug 2022 |
 | v 1.13.2 | added Honey Impact search button to /wiki | 27 Oct 2022 |
 | v 1.13.3 | integrated Honey Impact search within /wiki | 10 Nov 2022 |
+| v 1.14 | added searching wiki by using inline queries | 10 Nov 2022 |
