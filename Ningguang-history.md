@@ -27,3 +27,5 @@
 | v 1.12 | added shortcuts for playable characters in /wiki | 11 Jul 2022 |
 | v 1.13 | added buttons to set/clear alerts in /resin | 17 Aug 2022 |
 | v 1.13.1 | move resin buttons to separate menu | 19 Aug 2022 |
+| v 1.13.2 | added Honey Impact search button to /wiki | 27 Oct 2022 |
+| v 1.13.3 | integrated Honey Impact search within /wiki | 10 Nov 2022 |
