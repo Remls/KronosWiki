@@ -84,4 +84,4 @@ Helper bot for [Genshin Impact](https://genshin.hoyoverse.com/en).
 | `/events`<br>`/ev` | Sends info about active events. | **Not accepted.** |
 | `/resin`<br>`/res`<br>`/r` | Resin tracker. | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/serenitea`<br>`/pot`<br>`/stp` | Serenitea Pot currency tracker. | **Not needed, but accepted.**<br>`/serenitea 420` will set your current currency value to 420.<br>`/serenitea` will return current status of your Serenitea Pot, as well as when max currency is expected to be hit. |
-| `/wiki` | Searches the wiki for a matching page.<br>*(Powered by [Fandom.com](https://genshin-impact.fandom.com/) and [Honey Impact](https://genshin.honeyhunterworld.com/))* | **Not needed, but accepted.**<br>Supplying no search query provides a list of resources. |
+| `/wiki` | Searches the wiki for a matching page.<br>*(Powered by [Fandom.com](https://genshin-impact.fandom.com/) and [Honey Impact](https://genshin.honeyhunterworld.com/))*<br>Honey Impact search is also supported through inline queries. | **Not needed, but accepted.**<br>Supplying no search query provides a list of resources. |
