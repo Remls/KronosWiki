@@ -121,3 +121,4 @@
 | v 10.10 | /time | 16 Oct 2022 |
 | v 10.10.1 | Add refresh button to /time | 16 Oct 2022 |
 | v 10.10.2 | better support for chats with topics | 31 Dec 2022 |
+| v 10.11 | /shop | 10 Sep 2023 |
