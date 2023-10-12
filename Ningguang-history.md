@@ -33,3 +33,4 @@
 | v 1.14.1 | added GI wiki search to inline search results | 11 Nov 2022 |
 | v 1.14.2 | better support for chats with topics | 31 Dec 2022 |
 | v 1.15 | /power, added searching Honkai: Star Rail Wiki to /wiki | 2 May 2023 |
+| v 1.16 | Added support for reserved trailblaze power to /power | 12 Oct 2023 |
