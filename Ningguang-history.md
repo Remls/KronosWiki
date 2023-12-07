@@ -37,3 +37,4 @@
 | v 1.17 | Limit message length in /domains | 26 Sep 2023 |
 | v 1.18 | Added support for reserved trailblaze power to /power | 12 Oct 2023 |
 | v 1.19 | Added support for triple banners in /wish, added refresh button to /resin and /power | 14 Oct 2023 |
+| v 1.20 | Added support for HSR codes in /code | 7 Dec 2023 |
