@@ -39,3 +39,4 @@
 | v 1.19 | Added support for triple banners in /wish, added refresh button to /resin and /power | 14 Oct 2023 |
 | v 1.20 | Added support for HSR codes in /code | 7 Dec 2023 |
 | v 1.21 | Added support for Chronicled Wish in /wish | 11 Mar 2024 |
+| v 1.22 | Added timezone support for /events | 24 Apr 2024 |
