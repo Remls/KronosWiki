@@ -31,6 +31,7 @@
 | `/nice` | Provides a button to nice. | **Not accepted.** |
 | `/ping` | Checks if Kronos is listening. | **Not accepted.** |
 | `/pray` | Sends prayer times for Maale for the current day by default. Can also provide prayer times for the next week for any island in the Maldives.<br>*(Powered by [SalatMV](https://play.google.com/store/apps/details?id=mv.salaf.salat))* | **Not accepted.** |
+| `/pray_my` | Sends prayer times for Kuala Lumpur/Putrajaya for the current day by default. Can also provide prayer times for the next week for any zone in Malaysia.<br>*(Powered by [Waktu Solat](https://waktusolat.app/en))* | **Not accepted.** |
 | `/rcg` | Generates a random Cyanide & Happiness comic.<br>*(Powered by [explosm.net](http://explosm.net/rcg))* | **Not accepted.** |
 | `/rip` | Provides a button to pay respects. | **Not needed, but accepted.**<br>`/rip my dignity` will provide a message customized for "my dignity". |
 | `/rng` | - Generates random numbers with input specified using [dice notation](https://en.m.wikipedia.org/wiki/Dice_notation).<br>- Randomly selects a list of heroes for a game of Vainglory. | **Not needed, but accepted.**<br>`/rng 20d98` will roll a 98-sided die 20 times.<br>`/rng` (without arguments) will roll 1d6 by default (a 6-sided die once).<br>`/rng vg` will select one hero at random.<br>`/rng vg7` will select 7 heroes at random. |
@@ -73,15 +74,17 @@ Start the text message with `@<bot_username> <prefix>` in any chat to use inline
 
 ## Ningguang
 
-Helper bot for [Genshin Impact](https://genshin.hoyoverse.com/en).
+Helper bot for [Genshin Impact](https://genshin.hoyoverse.com/en) and [Honkai: Star Rail](https://hsr.hoyoverse.com/en-us/).
 
 | Command(s) | Description | Arguments |
 | --- | --- | --- |
 | `/abyss` | View details about the current Spiral Abyss. | **Not accepted.** |
 | `/banner`<br>`/pity`<br>`/wish` | Pity tracker for wishes. | **Not needed, but accepted.**<br>Send command for full helptext. |
-| `/craft` | Check if you have enough items to craft. | **Needed.**<br>Send command for full helptext. | 
-| `/domains`<br>`/dom`<br>`/bosses` | Sends info about domains and bosses. | **Not accepted.** |
+| `/craft`<br>`/cr` | Check if you have enough items to craft. | **Needed.**<br>Send command for full helptext. | 
+| `/domains`<br>`/dom`/`/sub`<br>`/bosses` | Sends info about domains and bosses. | **Not accepted.** |
 | `/events`<br>`/ev` | Sends info about active events. | **Not accepted.** |
+| `/power`<br>`/pow`<br>`/p` | Trailblaze power tracker (Honkai: Star Rail). | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/resin`<br>`/res`<br>`/r` | Resin tracker. | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/serenitea`<br>`/pot`<br>`/stp` | Serenitea Pot currency tracker. | **Not needed, but accepted.**<br>`/serenitea 420` will set your current currency value to 420.<br>`/serenitea` will return current status of your Serenitea Pot, as well as when max currency is expected to be hit. |
-| `/wiki` | Searches the wiki for a matching page.<br>*(Powered by [Fandom.com](https://genshin-impact.fandom.com/) and [Honey Impact](https://genshin.honeyhunterworld.com/))*<br>Honey Impact search is also supported through inline queries. | **Not needed, but accepted.**<br>Supplying no search query provides a list of resources. |
+| `/set_tz` | Set your timezone. | **Needed.**<br>`/set_tz Asia/Singapore` will set your timezone to Asia/Singapore. |
+| `/wiki` | Searches the wiki for a matching page.<br>*(Powered by [Fandom.com](https://fandom.com/) and [Honey Impact](https://genshin.honeyhunterworld.com/))*<br>Honey Impact search is also supported through inline queries. | **Not needed, but accepted.**<br>Supplying no search query provides a list of resources. |
