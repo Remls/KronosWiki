@@ -123,3 +123,4 @@
 | v 10.10.2 | better support for chats with topics | 31 Dec 2022 |
 | v 10.11 | /shop | 10 Sep 2023 |
 | v 10.11.1 | Instagram Reels links sent are automatically downloaded, you can now delete automatically downloaded videos | 10 Oct 2023 |
+| v 10.12 | /pray_my | 26 Apr 2024 |
