@@ -41,4 +41,4 @@
 | v 1.21 | Added support for Chronicled Wish in /wish | 11 Mar 2024 |
 | v 1.22 | Added timezone support for /events | 24 Apr 2024 |
 | v 1.23 | /set_tz | 25 Apr 2024 |
-| v 1.24 | Remove Honey Impact search from /wiki, provide links to Google search in /wiki | 3 Jun 2024 |
+| v 1.24 | Remove Honey Impact search from /wiki, provide links to Google search in /wiki, update max resin value to 200 | 3 Jun 2024 |
