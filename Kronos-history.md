@@ -125,3 +125,4 @@
 | v 10.11.1 | Instagram Reels links sent are automatically downloaded, you can now delete automatically downloaded videos | 10 Oct 2023 |
 | v 10.12 | /pray_my | 26 Apr 2024 |
 | v 10.12.1 | Add ability to use location messages to pinpoint prayer time zones in /pray_my | 27 Apr 2024 |
+| v 10.12.2 | Add ability to remove items from shopping list through Telegram | 17 Mar 2025 |
