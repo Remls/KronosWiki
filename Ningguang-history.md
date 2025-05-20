@@ -44,3 +44,4 @@
 | v 1.24 | Remove Honey Impact search from /wiki, provide links to Google search in /wiki, update max resin value to 200, add Imaginarium Theatre to list of recurring events | 3 Jun 2024 |
 | v 1.25 | Update /abyss to support new Spiral Abyss format | 17 Jun 2024 |
 | v 1.26 | Update maximum trailblaze power to 300 | 23 Jan 2025 |
+| v 1.27 | Change search engine for /wiki | 21 May 2025 |
