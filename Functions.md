@@ -81,7 +81,7 @@ Helper bot for [Genshin Impact](https://genshin.hoyoverse.com/en) and [Honkai: S
 | `/abyss` | View details about the current Spiral Abyss. | **Not accepted.** |
 | `/banner`<br>`/pity`<br>`/wish` | Pity tracker for wishes. | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/craft`<br>`/cr` | Check if you have enough items to craft. | **Needed.**<br>Send command for full helptext. | 
-| `/domains`<br>`/dom`/`/sub`<br>`/bosses` | Sends info about domains and bosses. | **Not accepted.** |
+| `/domains`<br>`/dom`/`/sub`<br>`/bosses` | Sends info about domains and bosses. | **Not needed, but accepted.**<br>Sending arguments will search entries in domains list. |
 | `/events`<br>`/ev` | Sends info about active events. | **Not accepted.** |
 | `/power`<br>`/pow`<br>`/p` | Trailblaze power tracker (Honkai: Star Rail). | **Not needed, but accepted.**<br>Send command for full helptext. |
 | `/resin`<br>`/res`<br>`/r` | Resin tracker. | **Not needed, but accepted.**<br>Send command for full helptext. |
