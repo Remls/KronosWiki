@@ -45,3 +45,4 @@
 | v 1.25 | Update /abyss to support new Spiral Abyss format | 17 Jun 2024 |
 | v 1.26 | Update maximum trailblaze power to 300 | 23 Jan 2025 |
 | v 1.27 | Change search engine for /wiki | 21 May 2025 |
+| v 1.28 | Added search for /domains | 2 Dec 2025 |
